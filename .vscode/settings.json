@@ -1,0 +1,22 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.fontSize": 20,
+  "editor.wordWrap": "on",
+  "terminal.integrated.sendKeybindingsToShell": true,
+  "workbench.editorAssociations": {
+    "*.xlsx": "default"
+  },
+  "redhat.telemetry.enabled": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "explorer.confirmDragAndDrop": false,
+  "liveServer.settings.donotVerifyTags": true,
+  "@azure.argTenant": "",
+  "workbench.colorTheme": "Night Owl",
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "github.copilot.nextEditSuggestions.enabled": true
+}

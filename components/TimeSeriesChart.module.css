@@ -1,0 +1,18 @@
+/* TimeSeriesChart.module.css */
+
+.grid-line {
+  position: absolute;
+  left: 0;
+  right: 0;
+  height: 1px;
+  border-top-width: 1px;
+  bottom: var(--bottom-percent);
+  transition: bottom 0.3s ease;
+}
+.light {
+  --border-color: #e5e7eb;
+}
+
+.dark {
+  --border-color: #374151;
+}

@@ -1,0 +1,5 @@
+[
+  { "text": "Use underscore for field names." },
+  { "text": "Follow Azure best practices when generating code." },
+  { "text": "Summarize plan before editing files for Azure Functions or SWA." }
+]
